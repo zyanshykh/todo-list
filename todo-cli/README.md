@@ -30,8 +30,6 @@ git clone [https://github.com/zyanshykh/todo-list.git](https://github.com/zyansh
 
 cd todo-list/todo-cli
 
-Bash
-# Sync dependencies and set up the virtual environment
 uv sync
 
 uv run todo.py add "Finish writing the project documentation"
